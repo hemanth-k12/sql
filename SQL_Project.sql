@@ -1,5 +1,5 @@
 
--- Intermediate SQL Project: Online Store Database
+--SQL Project: Online Store Database
 
 -- 1. Create Tables
 CREATE TABLE Customers(
